@@ -11,8 +11,12 @@
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-
+    
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
   </head>
 
   <body>
@@ -32,7 +36,16 @@
             <a href="{{ site.baseurl }}/Ranking">Ranking</a>
             <a href="{{ site.baseurl }}/Competition">Competition</a>
             <a href="{{ site.baseurl }}/Lesson">Lesson</a>
-            <a href="{{ site.baseurl }}/Goods">Goods</a>
+            <div class="dropdown">
+    <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown">Dropdown Example
+    <span class="caret"></span></button>
+    <ul class="dropdown-menu">
+      <li><a href="#">Racket</a></li>
+      <li><a href="#">Shoes</a></li>
+      <li><a href="#">Bag</a></li>
+	  <li><a href="#">Accessory</a></li>
+    </ul>
+  </div>
             <a href="{{ site.baseurl }}/Clubs">Clubs</a>
           </nav>
         </header>

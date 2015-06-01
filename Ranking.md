@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: Table
 title: Ranking
 permalink: /Ranking/
 ---

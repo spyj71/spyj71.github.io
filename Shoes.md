@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Shoe
-permalink: /Shoe/
+title: Shoes
+permalink: /Shoes/
 ---
 
 초/중급자용 신발입니다.

@@ -1,3 +1,9 @@
+---
+layout: page
+title: Racket
+permalink: /Racket/
+---
+
 
 초급자용 배드민턴 라켓 입니다.
 --------------------

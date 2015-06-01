@@ -8,6 +8,7 @@ permalink: /Ranking/
 
 순위 | 나라  | 이름 | 점수
 ------|-------|------|-----
+
  1 |중국   | ![중국](http://kr.flagbox.net/flags/01_flat_res/flat-res-40x30/cn.png) [CHEN Long](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=108456)      | 92441 
  2 |중국   | ![중국](http://kr.flagbox.net/flags/01_flat_res/flat-res-40x30/cn.png) [LIN Dan](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=109370)         | 74137 
  3 |덴마크 | ![덴마크](http://thumbnail.image.rakuten.co.jp/@0_mall/tospa/cabinet/shouhin/kokkigoods/403000-k.jpg?_ex=50x50) [Jan O JORGENSEN](http://bwf.tournamentsoftware.com/ranking/player.aspx?id=9109&player=108272) | 74017  

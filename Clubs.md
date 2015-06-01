@@ -1,8 +1,3 @@
----
-layout: page
-title: Clubs
-permalink: /Clubs/
----
 
   번호  | 클럽이름  | 클럽위치 | 운동시간  
 :-----:|-------|-------|-------

@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: Clubs
+permalink: /Clubs/
+---
   번호  | 클럽이름  | 클럽위치 | 운동시간  
 :-----:|-------|-------|-------
  1 | [천안클럽](http://cafe.daum.net/cabdclub) | 충남 천안시 동낭구 청당동 | 05:00~23:00

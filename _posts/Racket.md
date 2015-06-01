@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Racket
-permalink: /Racket/
+permalink: /_posts/Racket/
 ---
 
 
